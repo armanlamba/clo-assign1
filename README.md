@@ -1,5 +1,5 @@
 # Install the required MySQL package
-<!--comment2 -->
+<!--comment3 -->
 
 sudo apt-get update -y
 sudo apt-get install mysql-client -y
